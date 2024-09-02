@@ -27,8 +27,8 @@ h2 {
 form {
   background: rgba(255, 255, 255, 0.228);
   background-image: url('images.png');
-  background-size: cover; /* Adjust this value */
-  background-position: center; /* Center the background image */
+  background-size: cover; 
+  background-position: center; 
   background-repeat: no-repeat;
   padding: 50px;
   border-radius: 20px;
@@ -51,8 +51,8 @@ input[type="tel"]:focus {
 }
 
 textarea::placeholder {
-  color: #ffffff; /* Change this color to your desired placeholder color */
-  opacity: 0.8;   /* Adjust opacity if needed */
+  color: #ffffff; 
+  opacity: 0.8;   
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
